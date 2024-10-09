@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e023817dc01bdfc88040a67778ce4c2fb53dbb874bc32aaf046118ecdef739ed"
+            "sha256": "2ac5c47cfe95ef7031656a886b7bba3d9766357863f4ecfa095669f790b90829"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -39,7 +39,7 @@
                 "sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44",
                 "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6"
             ],
-            "markers": "sys_platform == 'win32'",
+            "markers": "platform_system == 'Windows'",
             "version": "==0.4.6"
         },
         "faker": {
@@ -176,11 +176,11 @@
         },
         "honcho": {
             "hashes": [
-                "sha256:a4d6e3a88a7b51b66351ecfc6e9d79d8f4b87351db9ad7e923f5632cc498122f",
-                "sha256:c5eca0bded4bef6697a23aec0422fd4f6508ea3581979a3485fc4b89357eb2a9"
+                "sha256:56dcd04fc72d362a4befb9303b1a1a812cba5da283526fbc6509be122918ddf3",
+                "sha256:af3815c03c634bf67d50f114253ea9fef72ecff26e4fd06b29234789ac5b8b2e"
             ],
             "index": "pypi",
-            "version": "==1.1.0"
+            "version": "==2.0.0"
         },
         "importlib-metadata": {
             "hashes": [
